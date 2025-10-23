@@ -1,6 +1,6 @@
 fastapi==0.110.0
 uvicorn==0.20.0
-sqlalchemy==1.4.41
+databases[postgresql]
 databases==0.6.2
 pydantic==1.10.9
 python-dotenv==1.0.1
